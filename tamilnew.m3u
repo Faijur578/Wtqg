@@ -1,0 +1,78 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun Life" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/78c9c0b3ceee8f5b0fb2c42d8bc4d4e8.png" group-title="India ➾ Movie",IN: Sun Life
+http://livetvbox.live:8080/live/Richard/Richard/5919.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun Music" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/ef2ce31aea1ef04d89580ca26fef5a77.jpg" group-title="India ➾ Music",IN: Sun Music
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/157496
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/1f7e6af71c53b1b7853876efa23acb64.png" group-title="India ➾ News",IN: Sun News
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/295303
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/9d2a0d0b78ffd6966844a7656afa4536.png" group-title="India ➾ Movie",IN: Sun TV
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/76969
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Vijay" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/5d985f020baf77d62ddf39806d5dde60.png" group-title="India ➾ Movie",IN: Star Vijay
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/19744
+#EXTINF:-1,VIJAY TV
+http://livetvbox.live:8080/live/Richard/Richard/98898.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaya Max" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1165409be8cefc8df380ad0e2066ac1c.png" group-title="India ➾ Music",IN: Jaya Max
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/51824
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaya TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/890a415b468e25966bc1ae8849f0f6c5.png" group-title="India ➾ Movie",IN: Jaya TV
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/145637
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kalaignar Murasu TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1efefaa2a497665d3a31b9220cad0ea9.png" group-title="India ➾ Movie",IN: Kalaignar Murasu TV
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/286966
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Polimer News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/08672750ca676a5ccb2cc50e5400bf8b.png" group-title="India ➾ News",IN: Polimer News
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/163279
+#EXTINF:-1 tvg-id="" tvg-name="IN: Polimer TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/47700f461ba3e826a3ac362c3f730818.png" group-title="India ➾ LifeStyle",IN: Polimer TV
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/193202
+#EXTINF:-1 tvg-id="" tvg-name="IN: Puthuyugam TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cfe2dea62f36d5c4c8de1db95620565b.png" group-title="India ➾ Movie",IN: Puthuyugam TV
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/196101
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ec7f998fae0b66db9bc6d14e2f5b09f8.png" group-title="India ➾ Movie",IN: Raj TV
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/193125
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj Digital Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/6849dca5be9a96ef2d8ef39ef0f25c67.jpg" group-title="India ➾ Movie",IN: Raj Digital Plus
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/60418
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Tamil" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/25ce128978be5e660e161910f7ce24bb.png" group-title="India ➾ Movie",IN: Zee Tamil
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/45505
+#EXTINF:-1 tvg-id="" tvg-name="IN: KTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0d3df8c6dfe55cd074bea2f3aa0ecfaf.png" group-title="India ➾ Movie",IN: KTV
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/36442
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 7 Tamil" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/caa7e4145e5997cc3fe36f9c5ba20b31.png" group-title="India ➾ News",IN: News 7 Tamil
+http://aflaxtv.xyz:8080/34223073/2cdb1b8d70/269685
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay Super" tvg-logo="" group-title="TAMIL",Tamil | Star Vijay Super
+http://go.justflix.tv:80/client120/aarab.amar/822
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay Takkar" tvg-logo="" group-title="TAMIL",Tamil | Star Vijay Takkar
+https://nayeem-parvez.pw/api/dpny.m3u8?id=5402
+#EXTINF:-1,Zee Thirai
+http://livetvbox.live:8080/live/Richard/Richard/181966.ts
+
+#EXTINF:-1,Sirippoli
+http://livetvbox.live:8080/live/Richard/Richard/5932.ts
+#EXTINF:-1,Adithya
+http://aflaxtv.xyz:8080/34223073/2cdb1b8d70/157469
+#EXTINF:-1,Isai Aruvi
+http://livetvbox.live:8080/live/Richard/Richard/26165.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1  HD Tamil" tvg-logo="" group-title="TAMIL",Star Sports 1  HD Tamil
+http://go.justflix.tv:80/client113/nyr1909/2588
+
+#EXTINF:-1,& Flix
+http://103.99.249.139/andflix/index.m3u8
+#EXTINF:-1,STAR Movies HD
+http://supersonictv.live:8080/911532/401247/85563
+#EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6ed17d1552de03d6c86481eb7b1deff6.png" group-title="India ➾ Kids",IN: Cartoon Network
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/82584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Chutti TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/1c9b69fbcb7cd3e547ae2cda56ae5d61.png" group-title="India ➾ Kids",IN: Chutti TV
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/157495
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/249c454173fa6205144acb92a8e5c25e.png" group-title="India ➾ Kids",IN: Discovery Kids
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/82683
+#EXTINF:-1 tvg-id="" tvg-name="IN: Disney Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e3681e2dc4800213e1c2c4142afe6108.png" group-title="India ➾ Kids",IN: Disney Channel
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/192985
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hungama TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/23e3729b89d49c59a2a1a402916fde28.png" group-title="India ➾ Kids",IN: Hungama TV
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/267168
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Yay!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2c50667949c8e4b2fbfa9d65dd550d7f.png" group-title="India ➾ Kids",IN: Sony Yay!
+http://aflaxtv.xyz:8080/adastream2023/Nmv76c8AL9uJ2qCW/1355
+#EXTINF:-1,Chitram
+http://livetvbox.live:8080/live/Richard/Richard/46743.ts
+#EXTINF:-1,Pogo
+http://livetvbox.live:8080/live/Richard/Richard/66165.ts
+#EXTINF:-1,Nick
+http://livetvbox.live:8080/live/Richard/Richard/66163.ts
